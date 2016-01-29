@@ -239,7 +239,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {169530637},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -250,10 +250,10 @@ function create_config( )
     ‼️ this bot is made by : @creed_is_dead
    〰〰〰〰〰〰〰〰
    🚩 Our admins are : 
-   🔰 @sorblack_creed
-   🔰 @amircc_creed
-   🔰 @aria_creed
-   🔰 @alireza_mah_creed 
+   🔰 @Alizpj
+   🔰 @khan_2222
+   
+    
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
@@ -421,7 +421,7 @@ remove somone from global admin🔹
 3. Stats :©
 !stats creedbot (sudoers)✔️
 shows bt stats🔚
-برای دیدن آمار ربات کرید
+برای دیدن امار روبات نوا
 
 !stats🔘
 shows group stats💲
@@ -441,7 +441,7 @@ will tag users©
 〰〰〰〰〰〰〰〰〰
 🔜 more plugins 
 ⚠️ We are Creeds ... ⚠️
-our channel : @creedantispam_channel🔋
+our channel : @zpjchannel🔋
 کانال ما 
 You Can user both "!" & "/" for them🎧
 میتوانید از دو شکلک !  و / برای دادن دستورات استفاده کنید
